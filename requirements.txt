@@ -1,0 +1,5 @@
+mypy
+black
+pytest
+pytest-mock
+freezegun
